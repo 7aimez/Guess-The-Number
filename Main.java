@@ -88,7 +88,7 @@ public class Main {
     }
     
     public static void clear() {
-        for (int i = 0; i < 50; i++) {
+        for (int i = 0; i < 55; i++) {
             System.out.println();
         }
     }

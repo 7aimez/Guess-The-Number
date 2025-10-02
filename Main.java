@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Initial Clear Screen
+        clear();
         
         // Create Scanner Object
         Scanner scanObj = new Scanner(System.in);
